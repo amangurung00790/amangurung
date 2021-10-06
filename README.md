@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @amangurung00790
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning SQL, Tableau, Excel and Python.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Aman Gurung
+- 👀 I’m Passionate about data analytics. Seeking opportunities where I can utilize my analytical, mathematical, and technical skills to solve real-life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions
+- 🌱 I’m currently learning SQL, Tableau, Excel, Python, Pandas, Matplotlib e.t.c.
+- 💞️ I’m looking to collaborate on any project which will give a head start in the world of Data Analytics.
 - 📫 How to reach me @amangurung00790@gmail.com
 
-<!---
-amangurung00790/amangurung00790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
